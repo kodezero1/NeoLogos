@@ -7,4 +7,4 @@ Relies on Redux for application state management, Express for the REST API, and 
 
 Made using: MERN stack
 
-Link: https://neologos.herokuapp.com/
+
